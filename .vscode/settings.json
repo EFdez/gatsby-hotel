@@ -19,5 +19,13 @@
         "menubar.selectionForeground": "#C6FF00",
         "editor.findMatchBorder": "#C6FF00",
         "selection.background": "#C6FF0040"
+    },
+    "files.autoSave": "afterDelay",
+    "emmet.extensionsPath": "",
+    "emmet.excludeLanguages": [
+        "markdown"
+    ],
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
     }
 }
